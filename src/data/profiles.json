@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "profile": [
+      "Played a key role in negotiating a major nuclear agreement.",
+      "Was president during nationwide protests in 2019.",
+      "Held positions during the 1999 protest period."
+    ],
+    "correctAnswer": "Hassan Rouhani",
+    "options": [
+      "Hassan Rouhani",
+      "Mahmoud Ahmadinejad",
+      "Mohammad Khatami",
+      "Ebrahim Raisi",
+      "Ali Larijani",
+      "Akbar Hashemi Rafsanjani"
+    ],
+    "explanation": "Served as President of Iran from 2013–2021 and was central in the 2015 nuclear agreement."
+  }
+]
